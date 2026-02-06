@@ -55,4 +55,4 @@ jobs:
       # 7. Trigger automatico del deploy su Cloudflare Pages
       - name: Trigger Cloudflare Pages Deploy
         run: |
-         // curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/2a4b5eaa-29f4-489d-b84f-6b86343fe9f2"
+         // curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/f82c615e-4a4c-45af-bcf0-02845fd939a2"
